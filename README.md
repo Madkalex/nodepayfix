@@ -8,7 +8,7 @@
 # Register Nodepay
 - https://app.nodepay.ai/register?ref=55vzBVxmyYouwN2
 
-# Recomended proxy for nodepay, Residential 5$ 5gb
+# Recomended proxy for nodepay, Residential 5gb
 - https://app.nodepay.ai/register?ref=UlsGtogkTs4NvPG
 
 # Proxy disini juga bagus bagus
